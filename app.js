@@ -1,1 +1,1 @@
-console.log("Login básico");
+console.log("Login mejorado v2");
